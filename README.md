@@ -3,8 +3,11 @@
 
 Cd my-app
 
-After type, to install all the dev dependencies
-NPM install
+After type 
+#NPM install,
+to install all the dev dependencies.
+
 
 to run the app
-npm run start to start the server
+#npm run start
+to start the server

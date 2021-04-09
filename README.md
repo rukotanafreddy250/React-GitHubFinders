@@ -9,5 +9,5 @@ to install all the dev dependencies.
 
 
 to run the app
-#npm run start
+#npm run start;
 to start the server
